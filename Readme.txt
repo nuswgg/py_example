@@ -1,1 +1,1 @@
-This repo is to collection some py example
+This repo is to collect some py example
